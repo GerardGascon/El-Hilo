@@ -4,6 +4,16 @@ INCLUDE dulldagger.ink
 INCLUDE wulu.ink
 INCLUDE lindryn.ink
 INCLUDE 3dGoblinDev.ink
+INCLUDE bibiki.ink
+INCLUDE alberto.ink
+INCLUDE josyan.ink
+INCLUDE nat.ink
+INCLUDE guayanfanta.ink
+
+
+
+
+
 
 
 
@@ -15,3 +25,4 @@ Aquiles: Ya que estamos desvelando anécdotas del papá de inscryption en \#guad
 + [Eufrasio]
     -> eufrasio1
 + [Bibiki]
+    -> bibiki1
