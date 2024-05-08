@@ -1,8 +1,12 @@
 === eufrasio1 ===
 Eufrasio: ...no te gusta el salmorejo...<br>Andaluz promedio leyendo esto:#https:\/\/pbs.twimg.com/media/GM6x3veXAAAmE93?format=jpg&name=360x360
-    + [Aquiles]
++ [Aquiles]
     -> aquiles1
--> END
++ [Raúl 'Lindryn']
+    -> lindryn1
++ [3DGoblinDev (Lorena)]
+    -> 3dGoblinDev1
+-> EN
 
 === eufrasio2 ===
 Eufrasio: Me estas haciendo gaslighting
@@ -16,4 +20,8 @@ Eufrasio: Me siento como Jesucristo en la cruz ahora mismo
 Aquiles: Sonrojado?
 Eufrasio: Un poco :)
 Aquiles: :\/\/)
+-> END
+
+=== eufrasio4 ===
+Eufrasio: Lol es verda<br>Es hombre cabra
 -> END

@@ -4,6 +4,8 @@ Eufrasio: #https:\/\/pbs.twimg.com/media/GM6zlEUXwAAcSaT?format=jpg&name=360x360
 Dulldagger: oye nunca me había dado cuenta de que el lobo ese tiene cuernos //Nota de Geri: yo tampoco
 + [Aquiles]
     -> aquiles2
++ [Eufrasio]
+    -> eufrasio4
 -> END
 
 === aquiles2 ===

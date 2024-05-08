@@ -2,6 +2,10 @@ INCLUDE aquiles.ink
 INCLUDE eufrasio.ink
 INCLUDE dulldagger.ink
 INCLUDE wulu.ink
+INCLUDE lindryn.ink
+INCLUDE 3dGoblinDev.ink
+
+
 
 
 -> start
