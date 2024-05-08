@@ -8,6 +8,8 @@ Estoy usando [ink](https://www.inklestudios.com/ink/) así que tendrás que usar
 
 Descarga el código, añade los twits que sean y espera a que lo haga la siguiente persona :)
 
+Cuando añadas tu código no te olvides de añadir tu nombre en los créditos.
+
 ## Como escribir
 
 ### Knottiers
@@ -61,3 +63,7 @@ Aquiles: #https:\/\/pbs.twimg.com/media/GM7SAihXcAApuY7?format=png&name=small
 Eufrasio: QUE ME HAGAS ZOOM EN LA FOTO ESTA Q NO VEO
 -> END
 ```
+
+## Créditos
+
+- [Geri](https://twitter.com/G_of_Geri)
