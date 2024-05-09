@@ -35,10 +35,20 @@ Guayanfanta de Salmorejo: este evento será recordado como el hilo del salmorejo
 GRASA_TOCAR: escuchen silencio anónimo #https:\/\/silencioanonimo.bandcamp.com/
 + [Aquiles]
     -> aquiles15
-+ [wulu] //https://twitter.com/wuluwu_/status/1787583132771770782
++ [wulu]
+    -> wulu7
 + [Guayanfanta de Salmorejo]
     -> guayanfanta8
 
 === guayanfanta8 ===
 Guayanfanta de Salmorejo: ALMA XFSBOR JDJDKD
+-> END
+
+=== guayanfanta9 ===
+Guayanfanta de Salmorejo: literalmente nos contaste que te llamaron chaval
+Aquiles: EL SEÑOR DEL CENTRO DE SALUD QUE ME DIJO "Hey chaval, estás enfermo muchacho?"
+-> END
+
+=== guayanfanta10 ===
+Guayanfanta de Salmorejo: sapo
 -> END

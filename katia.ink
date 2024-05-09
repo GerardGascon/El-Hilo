@@ -6,3 +6,7 @@ Andresito: lo último que hice antes de salir de la oficina pa ir a comer fue es
     -> guayanfanta6
 + [Aquiles]
     -> aquiles13
+
+=== katia2 ===
+Katia: Y si hacemos twink bombing en las stores de juegos? O eso era en otra conversación
+-> END

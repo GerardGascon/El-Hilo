@@ -37,3 +37,41 @@ wulu: las de bea tho...
 === wulu6 ===
 wulu: no. ademas tmb me sientan mal
 -> END
+
+=== wulu7 ===
+wulu: no se que poner solo quiero alargar este hilo que ya es de por si estupidamente largo olaa:3
+Aquiles: Este es el comentario con el que esto se ha convertido en un foro
++ [wulu]
+    -> wulu8
++ [Guayanfanta de Salmorejo] //https://twitter.com/guayanclipper/status/1787585879818613039
+
+=== wulu8 ===
+wulu: creo que el momento en el que se empezo a hablar de "twinkfobia" en un hilo de salmorejo tmb fue un punto de inflexion eh
+Aquiles: Literalmente empezó Eufrasio diciendo que no soy un twink<br>Qué opinas Wulu<br>Qué es un twink?
+wulu: de hecho tengo una captura del momento en el que me di cuenta de que era un twink #https:\/\/pbs.twimg.com/media/GM7G9FAWQAIEAWU?format=jpg&name=medium
++ [Aquiles]
+    -> aquiles17
++ [wulu]
+    -> wulu9
+
+=== wulu9 ===
+wulu: o sea yo creo que tu tmb eres twink la vd aunque no recuerdo tu cara demasiado
++ [Aquiles]
+    -> aquiles16
++ [Katia]
+    -> katia2
+
+=== wulu10 ===
+wulu: supongo que por lo de aparentar ser mas joven (digo supongo pero en vd no se pq lo he dicho bfndvdjd)
+Aquiles: Un compañero de trabajo se pensaba que tenía 15 y le tuve que explicar que a los 15 no es legal trabajar en el estado español
+wulu: KSHDJDHD bastante twink de tu parte imo
+-> END
+
+=== wulu11 ===
+wulu: eso es cierto, es como un área gris aunque me imagino gente resbaladiza mas que otra cosa la vd
+Aquiles: EW resbaladiza???
+wulu: en plan nose es lo que me inspiran las nutrias rollo el animal, ser resbaladizas dndhdjdgdhd
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta10
++ [Aquiles]
+    -> aquiles19

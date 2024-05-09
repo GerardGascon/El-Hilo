@@ -117,3 +117,31 @@ Aquiles: nonono para hacer publicidad en mi tuit a mí se me paga eh SJDFAJSD
 Guayanfanta de Salmorejo: bueno yo le hice publicidad de la tuya,, es fair game pienso yo
 Aquiles: fair enough
 -> END
+
+=== aquiles16 ===
+Aquiles: Me hace gracia que esto implica que dependiendo de mi cara mi estatus como twink cambia
++ [wulu]
+    -> wulu10
++ [Guayanfanta de salmorejo]
+    -> guayanfanta9
+
+=== aquiles17 ===
+Aquiles: Si bueno pues no se lo digas a Eufrasio que según él tienen que ser altos como Edward Cullen y los llama lagartos
+wulu: bueno y que sabrá el digo yo nos va a hacer twinkn'tsplaining o que
+Aquiles: En verdad no es twinksplaining es bearsplaining sobre lo que considera él un twink y ahora le hago un juicio público por haber herido mis sentimientos
+wulu: claro o sea pone twinkn't (tampoco diria que es bear la vd)
+Aquiles: Se sugirió el término nutria<br>pero no estoy familiarizado con él
++ [Aquiles]
+    -> aquiles18
++ [wulu]
+    -> wulu11
+
+=== aquiles18 ===
+Aquiles: Con el término, no con Eufrasio<br>Bueno con Eufrasio tampoco aparentemente para recibir esta discriminación
+wulu: estuvo bastante feo espero que puedas sanar❤️
+-> END
+
+=== aquiles19 ===
+Aquiles: Claro pero en este contexto hablamos de nutrias con abundancia de pelo humano
++ [Katia] //https://twitter.com/kahsez/status/1787595472099590346
++ [wulu] //https://twitter.com/wuluwu_/status/1787595475266199830
