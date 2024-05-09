@@ -20,6 +20,8 @@ INCLUDE culo.ink
 INCLUDE doseka.ink
 INCLUDE lucnaril.ink
 INCLUDE nepo.ink
+INCLUDE nekerafa.ink
+INCLUDE viola.ink
 
 -> start
 

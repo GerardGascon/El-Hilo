@@ -166,3 +166,12 @@ Aquiles: Haces lo de darle la vuelta a las camisetas gráficas para que tarden m
     -> guayanfanta14
 + [wulu]
     -> wulu16
+
+=== aquiles23 ===
+Aquiles: ambas
+Guayanfanta de Salmorejo: un twink de cultura
++ Mostrar resuestas adicionales, incluidas las que puedan contener material ofensivo
+    + + [VIOLA]
+        -> viola1
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta16

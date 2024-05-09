@@ -106,7 +106,8 @@ Aquiles: pero hair o no hair
 === wulu16 ===
 wulu: pero eso es pa meterlas en la lavadora no?
 GRASA_TOCAR: para plancharlas
-+ [Aquiles] //https://twitter.com/NoEstoyAquiles/status/1787597143726862515
++ [Aquiles]
+    -> aquiles23
 + [Katia]
     -> katia9
 

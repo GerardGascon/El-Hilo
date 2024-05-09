@@ -83,3 +83,10 @@ Aquiles: Salmorejo
     -> alberto3
 + [wulu]
     -> wulu17
+
+=== guayanfanta16 ===
+Guayanfanta de Salmorejo: ya bueno, yo los míos no los escondo #https:\/\/pbs.twimg.com/media/GM7WSV-X0AAfAjo?format=jpg&name=large
+Aquiles: ººº
+Guayanfanta de Salmorejo: espero que te haya gustado mistetas
+Katia: No pero me gustaria verlas
+-> END
