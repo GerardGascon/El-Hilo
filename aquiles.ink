@@ -62,7 +62,8 @@ Alberto: eso son porras (plural), y sólo existen porque la gente de fuera de la
 
 === aquiles9 ===
 Aquiles: Vale, estamos de acuerdo a pesar de que no haya pisado Cádiz<br>Entonces cuál es la diferencia entre porra, salmorejo y gazpacho?? Daniel necesita respuestas
-+ [Culoextremo] //https://twitter.com/Elculoextremo/status/1787492115833856484
++ [Culoextremo]
+    -> culo2
 + [Aquiles]
     -> aquiles10
 
@@ -70,4 +71,15 @@ Aquiles: Vale, estamos de acuerdo a pesar de que no haya pisado Cádiz<br>Entonc
 Aquiles: @DMullinsGames Sorry but I think we were fooled, we tried Gazpacho not Salmorejo and now there's another red new thing, hurry come back we have to fix this
 Daniel Mullins: 😲 it was still really good tho
 Aquiles: You blew my cover Daniel oh no now they are gonna know it was me the one who didn't like it all along oh no sorry I have to go write my will it has been a pleasure oh good lord forgive me the Andaluces are coming for me and they write very long tweets what am I to do
+-> END
+
+=== aquiles11 ===
+Aquiles: arroZ?? Yo me he perdido ya JSDHAJS
+wulu: noo perdona aquiles esto es un meme por lo de los valencianos que dicen "eso no es paella es arroz con cosas"
+Aquiles: AH VALE<br>Yo full pensando que habían triturado arroz y lo habían metido en el gazpacho, y quién soy yo pa juzgar si no me sé los ingredientes JSFAHSF
+-> END
+
+=== aquiles12 ===
+Aquiles: Doy fé, Mr Mullins y Freya se quedaron flipados con esas croquetas
+Lucía: No es para menos
 -> END

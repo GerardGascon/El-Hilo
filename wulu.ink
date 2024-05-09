@@ -16,3 +16,19 @@ Aquiles: ..... Daniel.... me ha dicho que os pregunte cuál es la diferencia ent
     -> lucnaril1
 + [Culoextremo]
     -> culo1
+
+=== wulu4 ===
+wulu: como??? eso ya es arroz con cosas
++ [Lucía]
+    -> lucia1
++ [Aquiles]
+    -> aquiles11
++ [Lucía otra vez]
+    -> lucia2
+
+=== wulu5 ===
+wulu: las de bea tho...
++ [Lucía]
+    -> lucia3
++ [guayanfanta de salmorejo]
+    -> guayanfanta4
