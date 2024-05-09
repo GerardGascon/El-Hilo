@@ -50,3 +50,24 @@ Aquiles: Y al final gané el doble de amistades
 guayanfanta de salmorejo: arco de redención
 -> END
 
+=== aquiles8 ===
+Aquiles: Pero si lo que comimos era liquidísimo ???<br>Estaba en un vasito
+Alberto: No, no, no. Hay que parar esta rueda de la desinformación. En una olla de porra puedes poner en vertical una cuchara y no se cae. Y sírvese con toppings variados, admite todo, de mis favoritos: patatas fritas (no de bolsa).
+Aquiles: LA PORRA NO ERA UN CHURRO GRANDE??
+Alberto: eso son porras (plural), y sólo existen porque la gente de fuera de la bahía de cádiz no tiene ni idea de hacer churros
++ [Aquiles]
+    -> aquiles9
++ [Renato Meyer] //https://twitter.com/Renato_Meyer_/status/1787567449061118242
++ [Katia] //https://twitter.com/kahsez/status/1787490369136890100
+
+=== aquiles9 ===
+Aquiles: Vale, estamos de acuerdo a pesar de que no haya pisado Cádiz<br>Entonces cuál es la diferencia entre porra, salmorejo y gazpacho?? Daniel necesita respuestas
++ [Culoextremo] //https://twitter.com/Elculoextremo/status/1787492115833856484
++ [Aquiles]
+    -> aquiles10
+
+=== aquiles10 ===
+Aquiles: @DMullinsGames Sorry but I think we were fooled, we tried Gazpacho not Salmorejo and now there's another red new thing, hurry come back we have to fix this
+Daniel Mullins: 😲 it was still really good tho
+Aquiles: You blew my cover Daniel oh no now they are gonna know it was me the one who didn't like it all along oh no sorry I have to go write my will it has been a pleasure oh good lord forgive me the Andaluces are coming for me and they write very long tweets what am I to do
+-> END
