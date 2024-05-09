@@ -49,6 +49,7 @@ Aquiles: pues doy fé, hace que los dibujos duren más<br>Importante con las de 
 
 === katia9 ===
 Katia: Planchar es de pringaos
-+ [Guayanfanta de Salmorejo] //https://twitter.com/guayanclipper/status/1787599491941498978
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta15
 + [Nekerafa]
     -> nekerafa1

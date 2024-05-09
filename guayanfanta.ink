@@ -72,3 +72,14 @@ Guayanfanta de Salmorejo: bon profiiit
 === guayanfanta14 ===
 Guayanfanta de Salmorejo: siii, aunque con esta lavadora lo he pasado muy mal porque me he estresado con mucha ropa que pone que hay que lavar a mano y yo no tengo energías para poner media lavadora estás tú que lavo yo las cosas a mano
 -> END
+
+=== guayanfanta15 ===
+Guayanfanta de Salmorejo: 🗣️🗣️🗣️
+Aquiles: Buah guerra de clases eh
+Aquiles: Volví de cenar :)
+GRASA_TOCAR: que cenaste? nwn
+Aquiles: Salmorejo
++ [Alberto]
+    -> alberto3
++ [wulu]
+    -> wulu17
