@@ -44,3 +44,9 @@ Aquiles: La qué 👁️
     -> bibiki2
 + [guayanfanta de salmorejo]
     -> guayanfanta1
+
+=== aquiles7 ===
+Aquiles: Y al final gané el doble de amistades
+guayanfanta de salmorejo: arco de redención
+-> END
+

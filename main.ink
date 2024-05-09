@@ -9,9 +9,10 @@ INCLUDE alberto.ink
 INCLUDE josyan.ink
 INCLUDE nat.ink
 INCLUDE guayanfanta.ink
-
-
-
+INCLUDE jordidepaco.ink
+INCLUDE renatomeyer.ink
+INCLUDE araceli.ink
+INCLUDE laurashiva.ink
 
 
 
@@ -26,3 +27,13 @@ Aquiles: Ya que estamos desvelando anécdotas del papá de inscryption en \#guad
     -> eufrasio1
 + [Bibiki]
     -> bibiki1
++ [Jordi de Paco]
+    -> jordidepaco1
++ [Araceli Cazorla]
+    -> araceli1
++ [Laura Shiva]
+    -> laurashiva1
++ [Victoria]
+    -> victoria1
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta2
