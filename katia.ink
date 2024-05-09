@@ -41,3 +41,14 @@ Aquiles: >looking for a new jail<br>>ask the jail receptionist if their jail is 
 === katia7 ===
 Katia: Ni entiendo nada pero es muy renato y aquiles core
 -> END
+
+=== katia8 ===
+Katia: Yo se la doy a todas porque me lo dijo mi madre la primera vez que puse una lavadora. Nunca lo cuestioné ni supe por qué era
+Aquiles: pues doy fé, hace que los dibujos duren más<br>Importante con las de las Málaga Jams
+-> END
+
+=== katia9 ===
+Katia: Planchar es de pringaos
++ [Guayanfanta de Salmorejo] //https://twitter.com/guayanclipper/status/1787599491941498978
++ [Nekerafa]
+    -> nekerafa1

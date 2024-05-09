@@ -68,3 +68,7 @@ Aquiles: :)
 === guayanfanta13 ===
 Guayanfanta de Salmorejo: bon profiiit
 -> END
+
+=== guayanfanta14 ===
+Guayanfanta de Salmorejo: siii, aunque con esta lavadora lo he pasado muy mal porque me he estresado con mucha ropa que pone que hay que lavar a mano y yo no tengo energías para poner media lavadora estás tú que lavo yo las cosas a mano
+-> END

@@ -155,5 +155,14 @@ Aquiles: ojo cuidao el sueño de miles de personas
 Aquiles: Me voy a cenaaaar
 + [wulu]
     -> wulu13
-+ [guayanfanta de salmorejo]
++ [Guayanfanta de Salmorejo]
     -> guayanfanta13
+
+=== aquiles22 ===
+Aquiles: Haces lo de darle la vuelta a las camisetas gráficas para que tarden más en írseles el plástico?
++ [Katia]
+    -> katia8
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta14
++ [wulu]
+    -> wulu16
