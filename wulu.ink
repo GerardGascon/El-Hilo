@@ -32,3 +32,7 @@ wulu: las de bea tho...
     -> lucia3
 + [guayanfanta de salmorejo]
     -> guayanfanta4
+
+=== wulu6 ===
+wulu: no. ademas tmb me sientan mal
+-> END

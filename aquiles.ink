@@ -57,7 +57,8 @@ Aquiles: LA PORRA NO ERA UN CHURRO GRANDE??
 Alberto: eso son porras (plural), y sólo existen porque la gente de fuera de la bahía de cádiz no tiene ni idea de hacer churros
 + [Aquiles]
     -> aquiles9
-+ [Renato Meyer] //https://twitter.com/Renato_Meyer_/status/1787567449061118242
++ [Renato Meyer]
+    -> renatomeyer2
 + [Katia] //https://twitter.com/kahsez/status/1787490369136890100
 
 === aquiles9 ===
