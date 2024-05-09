@@ -90,3 +90,16 @@ Aquiles: ººº
 Guayanfanta de Salmorejo: espero que te haya gustado mistetas
 Katia: No pero me gustaria verlas
 -> END
+
+=== guayanfanta17 ===
+Guayanfanta de Salmorejo: 🔴 Hola tuiter! Busco 2 compañeres de piso en el centro de Málaga para entrar en julio 🔴<br>> cerca de la estación de metro Guadalmedina<br>> 250 + gastos (de media suele ascender a 300)<br>> LGTB friendly (soy una transexual maja)<br>> *técnicamente* no se permiten mascotas
+-> END
+
+=== guayanfanta18 ===
+Guayanfanta de Salmorejo: mistetas
+Lucía: Lasmias
+-> END
+
+=== guayanfanta19 ===
+Guayanfanta de Salmorejo: poseidón
+-> END

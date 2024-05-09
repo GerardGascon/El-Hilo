@@ -43,7 +43,8 @@ wulu: no se que poner solo quiero alargar este hilo que ya es de por si estupida
 Aquiles: Este es el comentario con el que esto se ha convertido en un foro
 + [wulu]
     -> wulu8
-+ [Guayanfanta de Salmorejo] //https://twitter.com/guayanclipper/status/1787585879818613039
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta17
 
 === wulu8 ===
 wulu: creo que el momento en el que se empezo a hablar de "twinkfobia" en un hilo de salmorejo tmb fue un punto de inflexion eh
@@ -113,4 +114,35 @@ GRASA_TOCAR: para plancharlas
 
 === wulu17 ===
 wulu: https:\/\/twitter.com/i/status/1787606474509725700
+-> END
+
+=== wulu18 ===
+wulu: ojo que las nutrias tmb son peludas y no por ello menos resbaladizas (como las focas)
+Aquiles: Claro pero por eso especifico pelo humano, es un pelo diferente a la hora de ser resbaladizo
+Guayanfanta de Salmorejo: alguien ha puesto a prueba lo resbaladiza que es una nutria? o estamos aquí hablando sin fundamento alguno?
+Aquiles: A ver quizá hay que hacer research
+wulu: oye yo me tengo que ir a dormir que mañana tengo examen (deberia haber repasado en vez de hacer el gilipollas en publico pero bueno es un examen de 💀posedicion💀 mi respeto hacia el es nulo)
+Aquiles: No conozco esa palabra pero muchísima suerte!!!!! Cuéntanos qué tal fue mañana<br>Dulces sueños ❣️❣️
++ [Alberto]
+    -> alberto4
++ [Lucía]
+    -> lucia5
++ [wulu]
+    -> wulu19
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta19
+
+=== wulu19 ===
+wulu: ay jooo graciassss. de hecho hay una charlita de judit tur que lo explica (btw no querras decir wet dreams?)
+Lucía: Por favor Wulu.
+wulu: ES UNA REFERENCIA por favor lucia
+Lucía: Al gazpacho?
++ [Guayanfanta]
+    -> guayanfanta18
++ [wulu]
+    -> wulu20
+
+=== wulu20 ===
+wulu: a piolin
+Lucía: No recuerdo eso.
 -> END

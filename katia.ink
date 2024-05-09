@@ -53,3 +53,7 @@ Katia: Planchar es de pringaos
     -> guayanfanta15
 + [Nekerafa]
     -> nekerafa1
+
+=== katia10 ===
+Katia: En qué momento decidí responder
+-> END

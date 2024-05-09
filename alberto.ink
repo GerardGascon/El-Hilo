@@ -14,3 +14,8 @@ TODO: Link to this twit https://twitter.com/RicoAlbe/status/1787491686483943839
 Alberto: oye que el mullins ha contestao en el foro este eh
 Aquiles: quién le dice
 -> END
+
+=== alberto4 ===
+Alberto: es una palabra que siempre me suena a una cosa chunguísima que te hace un demonio, pero solo es la manía de perder la t de post (que la entiendo, pero mientras con me dejen escribir los participios en -ao e -ío yo me voy a quejar)
+wulu: de hecho si es una cosa chunguisima que te hace el demonio (explotacion y [aun mas] precariedad laboral)
+-> END

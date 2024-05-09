@@ -99,7 +99,8 @@ Andresito: PERO QUÉ ESTÁ PASANDO EN ESTE HILO
     -> aquiles14
 + [Nepo]
     -> nepo2
-+ [Katia] //https://twitter.com/kahsez/status/1787582274810089589
++ [Katia]
+    -> katia10
 + [Guayanfanta de Salmorejo]
     -> guayanfanta7
 + [Doseka]
@@ -145,7 +146,8 @@ wulu: estuvo bastante feo espero que puedas sanar❤️
 Aquiles: Claro pero en este contexto hablamos de nutrias con abundancia de pelo humano
 + [Katia]
     -> katia3
-+ [wulu] //https://twitter.com/wuluwu_/status/1787595475266199830
++ [wulu]
+    -> wulu18
 
 === aquiles20 ===
 Aquiles: ojo cuidao el sueño de miles de personas

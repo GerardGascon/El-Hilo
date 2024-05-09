@@ -20,3 +20,8 @@ Lucía: En noviembre??!!
 === lucia4 ===
 Lucia: Aunque bueno no habéis probado esas croquetas dios.
 -> END
+
+=== lucia5 ===
+Lucía: Se lo ha guardado para comentar mañana y seguir con el hilo.
+Guayanfanta de Salmorejo: yo también he hecho algún checkpoint así
+-> END
