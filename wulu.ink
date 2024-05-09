@@ -6,6 +6,7 @@ guayanfanta de salmorejo: esto es el meme de gritar cuchillas
 === wulu2 ===
 wulu: tu calla que eres canaria y no sabes
 guayanfanta de salmorejo: literalmente has dicho que llaman salmorejo al gazpacho 💀
+-> END
 
 === wulu3 ===
 wulu: tremenda puñalada esto. no conozcas a tus idolos etc
