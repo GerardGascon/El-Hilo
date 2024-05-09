@@ -10,3 +10,34 @@ Andresito: lo último que hice antes de salir de la oficina pa ir a comer fue es
 === katia2 ===
 Katia: Y si hacemos twink bombing en las stores de juegos? O eso era en otra conversación
 -> END
+
+=== katia3 ===
+Katia: Porque humanos con abundancia de pelo de nutria serían furris
++ [Aquiles]
+    -> aquiles20
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta11
+
+=== katia4 ===
+Katia: El que fue a la cena
+Guayanfanta de Salmorejo: pero, qué dices? qué cena?
++ [Katia]
+    -> katia5
++ [Aquiles]
+    -> aquiles21
+
+=== katia5 ===
+Katia: La que organiza Carlos
+-> END
+
+=== katia6 ===
+Katia: A la horny jail
+Aquiles: >looking for a new jail<br>>ask the jail receptionist if their jail is creepy or wet<br>>she doesn't understand / pull out illustrated diagram explaing what is creepy and what is wet<br>>she laughs and says "its a good jail sir"<br>>buy a membership<br>>its wet
++ [Katia]
+    -> katia7
++ [wulu]
+    -> wulu15
+
+=== katia7 ===
+Katia: Ni entiendo nada pero es muy renato y aquiles core
+-> END

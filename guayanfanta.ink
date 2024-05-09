@@ -52,3 +52,19 @@ Aquiles: EL SEÑOR DEL CENTRO DE SALUD QUE ME DIJO "Hey chaval, estás enfermo m
 === guayanfanta10 ===
 Guayanfanta de Salmorejo: sapo
 -> END
+
+=== guayanfanta11 ===
+Guayanfanta de Salmorejo: mierda que yo tenía que tender una lavadora, ahora vuelvo
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta12
++ [wulu]
+    -> wulu12
+
+=== guayanfanta12 ===
+Guayanfanta de Salmorejo: oye alma, sigo escuchándote desde la otra punta de la casa gracias a mis cascos inalámbricos. que por cierto, la manera correcta de hacer música es con los cascos más marranos que pilles o eso aprendí en la charlita de aquiles
+Aquiles: :)
+-> END
+
+=== guayanfanta13 ===
+Guayanfanta de Salmorejo: bon profiiit
+-> END

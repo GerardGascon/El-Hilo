@@ -75,3 +75,29 @@ wulu: en plan nose es lo que me inspiran las nutrias rollo el animal, ser resbal
     -> guayanfanta10
 + [Aquiles]
     -> aquiles19
+
+=== wulu12 ===
+wulu: pos llevate esta
+Katia: Y si no, que llame al abogado
+Guayanfanta de Salmorejo: huh, qué abogado?
++ [Aquiles] //https://twitter.com/NoEstoyAquiles/status/1787596512341455232
++ [Katia]
+    -> katia4
+
+=== wulu13 ===
+wulu: chaoo que aproveche (imagina que pone que aproveche en vez de sweet dreams no estoy encontrando piolin de irse a comer) #https:\/\/twitter.com/i/status/1787598828935237845
+Aquiles: Leí "wet dreams"
++ [Katia]
+    -> katia6
++ [wulu]
+    -> wulu14
+
+=== wulu14 ===
+wulu: KDHDJDH a ver el hilo esta totalmente descarriado ya pero no tanto
+-> END
+
+=== wulu15 ===
+wulu: >its resbaladizo
+Guayanfanta de Salmorejo: >looking to get a nutria pet<br>>ask the pet shop receptionist if their nutrias are resbaladizas or wet<br>>she doesn't understand / pull out illustrated diagram explaining what is resbaladiza and what is wet<br>>she laughs and says "its a good nutria sir"<br>>buy a nutria<br>>its wet
+Aquiles: pero hair o no hair
+-> END

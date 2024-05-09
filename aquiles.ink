@@ -143,5 +143,17 @@ wulu: estuvo bastante feo espero que puedas sanar❤️
 
 === aquiles19 ===
 Aquiles: Claro pero en este contexto hablamos de nutrias con abundancia de pelo humano
-+ [Katia] //https://twitter.com/kahsez/status/1787595472099590346
++ [Katia]
+    -> katia3
 + [wulu] //https://twitter.com/wuluwu_/status/1787595475266199830
+
+=== aquiles20 ===
+Aquiles: ojo cuidao el sueño de miles de personas
+-> END
+
+=== aquiles21 ===
+Aquiles: Me voy a cenaaaar
++ [wulu]
+    -> wulu13
++ [guayanfanta de salmorejo]
+    -> guayanfanta13
