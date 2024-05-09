@@ -25,3 +25,20 @@ Lucía: Y entonces ya podré opinar con criterio.
 === guayanfanta5 ===
 Guayanfanta de Salmorejo: en la próxima malagajam hago yo las croquetas (no soy manipuladora de alimentos)
 -> END
+
+=== guayanfanta6 ===
+Guayanfanta de Salmorejo: @aceCourtBot2 render
+-> END
+
+=== guayanfanta7 ===
+Guayanfanta de Salmorejo: este evento será recordado como el hilo del salmorejo
+GRASA_TOCAR: escuchen silencio anónimo #https:\/\/silencioanonimo.bandcamp.com/
++ [Aquiles]
+    -> aquiles15
++ [wulu] //https://twitter.com/wuluwu_/status/1787583132771770782
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta8
+
+=== guayanfanta8 ===
+Guayanfanta de Salmorejo: ALMA XFSBOR JDJDKD
+-> END

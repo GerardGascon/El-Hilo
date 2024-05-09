@@ -59,7 +59,8 @@ Alberto: eso son porras (plural), y sólo existen porque la gente de fuera de la
     -> aquiles9
 + [Renato Meyer]
     -> renatomeyer2
-+ [Katia] //https://twitter.com/kahsez/status/1787490369136890100
++ [Katia]
+    -> katia1
 
 === aquiles9 ===
 Aquiles: Vale, estamos de acuerdo a pesar de que no haya pisado Cádiz<br>Entonces cuál es la diferencia entre porra, salmorejo y gazpacho?? Daniel necesita respuestas
@@ -83,4 +84,36 @@ Aquiles: AH VALE<br>Yo full pensando que habían triturado arroz y lo habían me
 === aquiles12 ===
 Aquiles: Doy fé, Mr Mullins y Freya se quedaron flipados con esas croquetas
 Lucía: No es para menos
+-> END
+
+=== aquiles13 ===
+Aquiles: No he tenido un tuit con tantas interacciones en mi vida, gracias Andrés esto lo has hecho tú (no he sido yo en absoluto he sido yo)
+furu: tuit bait para que les andaluces te den interacciones
+Aquiles: Elon Musk estaría orgulloso de mí
+Guayanfanta de Salmorejo: si fuese andaluz te suspendería la cuenta por crímenes de odio
+GRASA_TOCAR: cualquier dia tuitea que le gusta el gazpacho manchego pero no el andaluz y lo declaran persona non grataa en andalucia de por vida
+Andresito: PERO QUÉ ESTÁ PASANDO EN ESTE HILO
++ [Alberto] //https://twitter.com/RicoAlbe/status/1787582328807571856
++ [Culoextremo] //https://twitter.com/Elculoextremo/status/1787581729244414440
++ [Aquiles]
+    -> aquiles14
++ [Nepo]
+    -> nepo2
++ [Katia] //https://twitter.com/kahsez/status/1787582274810089589
++ [Guayanfanta de Salmorejo]
+    -> guayanfanta7
++ [Doseka]
+    -> doseka1
+
+=== aquiles14 ===
+Aquiles: Y lo mejor de todo es que Twitter considera que solo hay 4 comentarios en total
+Guayanfanta de Salmorejo: es un lindo y frondoso árbol, puedes perderte entre sus ramas y no llegar a leer jamás todas sus hojas
+Aquiles: Ni siquiera se ve en primera instancia, es como el árbol que te lleva al mundo secreto en los Sims
+Culoextremo: me gusta mucho pensar que este hilo es el equivalente de gente haciendo ruido por la noche
+-> END
+
+=== aquiles15 ===
+Aquiles: nonono para hacer publicidad en mi tuit a mí se me paga eh SJDFAJSD
+Guayanfanta de Salmorejo: bueno yo le hice publicidad de la tuya,, es fair game pienso yo
+Aquiles: fair enough
 -> END
