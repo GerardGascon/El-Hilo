@@ -93,7 +93,8 @@ Aquiles: Elon Musk estaría orgulloso de mí
 Guayanfanta de Salmorejo: si fuese andaluz te suspendería la cuenta por crímenes de odio
 GRASA_TOCAR: cualquier dia tuitea que le gusta el gazpacho manchego pero no el andaluz y lo declaran persona non grataa en andalucia de por vida
 Andresito: PERO QUÉ ESTÁ PASANDO EN ESTE HILO
-+ [Alberto] //https://twitter.com/RicoAlbe/status/1787582328807571856
++ [Alberto]
+    -> alberto5
 + [Culoextremo] //https://twitter.com/Elculoextremo/status/1787581729244414440
 + [Aquiles]
     -> aquiles14
